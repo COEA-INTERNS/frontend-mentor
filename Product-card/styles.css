@@ -46,12 +46,12 @@ body {
 }
 
 .card-content h1 {
-    font-size: 24px;
+    font-size: 26px;
     font-family: "Fraunces", serif;
     font-weight: 700;
     margin-bottom: 16px;
     color: #1c232b;
-    width: 150px;
+    width: 180px;
 }
 
 .description {
