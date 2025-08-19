@@ -103,6 +103,7 @@ body {
     padding: 14px;
     margin-top: 16px;
     width: 300px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
 .proceed-button:hover {
     background: #7280a7;
