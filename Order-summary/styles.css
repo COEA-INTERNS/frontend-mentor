@@ -37,6 +37,7 @@ body {
     font-family: "Red Hat Display", sans-serif;
     font-weight: 900;
     font-size: 30px;
+    margin-bottom: 10px;
 }
 
 .card-content p {
